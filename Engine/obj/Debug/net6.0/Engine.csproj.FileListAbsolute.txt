@@ -1,0 +1,12 @@
+C:\Users\jrosi\source\repos\projects\RpgGame\Engine\bin\Debug\net6.0\Engine.deps.json
+C:\Users\jrosi\source\repos\projects\RpgGame\Engine\bin\Debug\net6.0\Engine.dll
+C:\Users\jrosi\source\repos\projects\RpgGame\Engine\bin\Debug\net6.0\Engine.pdb
+C:\Users\jrosi\source\repos\projects\RpgGame\Engine\obj\Debug\net6.0\Engine.csproj.AssemblyReference.cache
+C:\Users\jrosi\source\repos\projects\RpgGame\Engine\obj\Debug\net6.0\Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrosi\source\repos\projects\RpgGame\Engine\obj\Debug\net6.0\Engine.AssemblyInfoInputs.cache
+C:\Users\jrosi\source\repos\projects\RpgGame\Engine\obj\Debug\net6.0\Engine.AssemblyInfo.cs
+C:\Users\jrosi\source\repos\projects\RpgGame\Engine\obj\Debug\net6.0\Engine.csproj.CoreCompileInputs.cache
+C:\Users\jrosi\source\repos\projects\RpgGame\Engine\obj\Debug\net6.0\Engine.dll
+C:\Users\jrosi\source\repos\projects\RpgGame\Engine\obj\Debug\net6.0\refint\Engine.dll
+C:\Users\jrosi\source\repos\projects\RpgGame\Engine\obj\Debug\net6.0\Engine.pdb
+C:\Users\jrosi\source\repos\projects\RpgGame\Engine\obj\Debug\net6.0\ref\Engine.dll
